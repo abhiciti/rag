@@ -1,4 +1,3 @@
-"""
 import os
 import torch
 import gradio as gr
@@ -132,4 +131,3 @@ demo = gr.Interface(
 # Launch app locally
 if __name__ == "__main__":
     demo.launch()
-"""
