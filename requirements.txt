@@ -1,0 +1,11 @@
+"""
+torch
+transformers
+langchain
+langchain-community
+langchain-chroma
+pypdf
+sentence-transformers
+chromadb
+gradio
+"""
