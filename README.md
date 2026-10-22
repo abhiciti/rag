@@ -9,7 +9,7 @@ app_file: app.py
 pinned: false
 ---
 
-# PDF Knowledge Base RAG Assistant AST1 and AST 2
+# PDF Knowledge Base RAG Assistant 
 An interactive local RAG application processing `AST-1.pdf` and `AST-2.pdf` utilizing the open-weights `Qwen2.5-1.5B-Instruct` model and `BAAI/bge-small-en-v1.5` embeddings.
 
 ### How to Run Locally
